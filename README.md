@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me khantariq10648@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Many of developers don't know the full form of virus, i got yaa now google it.
   
 
