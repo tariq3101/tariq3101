@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=tariq3101&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tariq3101&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tariq3101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tariq3101)](https://git.io/streak-stats)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tariq3101&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
